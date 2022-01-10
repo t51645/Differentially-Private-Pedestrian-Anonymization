@@ -1,4 +1,5 @@
 # Differentially Private Pedestrian Anonymization
+![](https://github.com/t51645/Differentially-Private-Pedestrian-Anonymization/blob/master/result.jpg)
 
 ## Introduction
 
@@ -6,3 +7,4 @@
 
 
 
+  
