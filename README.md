@@ -1,5 +1,6 @@
 # Differentially Private Pedestrian Anonymization
 ![](https://github.com/t51645/Differentially-Private-Pedestrian-Anonymization/blob/master/result.jpg)
+
 The first row is different proxy pedestrian image, the second row is the anonymized pedestrian and the data in the above picture is from the Market-1501 dataset.
 
 ## Introduction
